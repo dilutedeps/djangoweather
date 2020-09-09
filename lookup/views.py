@@ -1,3 +1,5 @@
+#komentarz
+
 from django.shortcuts import render
 
 
